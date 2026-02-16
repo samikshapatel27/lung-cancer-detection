@@ -14,12 +14,16 @@ To further improve robustness, the pipeline incorporates advanced preprocessing 
 
 ---
 
+## Live Demo:
+https://lung-cancer-detection-jndutccvfazhf4zti6rzvt.streamlit.app/
+
+---
+
 ## Setup
 
 Clone the repository and set up your environment:  
 
 ```bash
-git clone https://github.com/samikshapatel27/LungCancerDetection.git
 cd LungCancerDetection
 pip install -r requirements.txt
 ```
